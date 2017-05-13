@@ -1,0 +1,3 @@
+key "9d6bf926071340171cc8a692c9a858e482a4368856dcb63e095e393049b8d6fd";
+remote ipv4 "vpn8.freifunknord.de" port 10050;
+remote ipv6 "vpn8.freifunknord.de" port 10050;
