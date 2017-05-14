@@ -1,0 +1,3 @@
+key "f141ebfd40352df6862404d8ea2d4cdfdd56e4e586f6e711cf68f20522d0e075";
+remote ipv4 "3.gw.freifunknord.de" port 10050;
+remote ipv6 "3.gw.freifunknord.de" port 10050;

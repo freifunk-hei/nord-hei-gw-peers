@@ -1,3 +1,0 @@
-key "8f5017ef742e0b6c4d8babbc5497e786990d23eb4b1fc51e790b06d08c46df54";
-remote ipv4 "vpn2.freifunknord.de" port 10050;
-remote ipv6 "vpn2.freifunknord.de" port 10050;
