@@ -1,3 +1,2 @@
 key "b89353ecefc044e793063b00e1d2a36a0a6758eb67d54cede8a4a2fb5365adcf";
-remote ipv4 "0.gw.freifunknord.de" port 10050;
-remote ipv6 "0.gw.freifunknord.de" port 10050;
+remote ipv4 "192.168.0.2" port 10050;
