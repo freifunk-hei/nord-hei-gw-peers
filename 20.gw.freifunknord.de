@@ -1,3 +1,0 @@
-key "e12ab3ae5955e1380cd18908edd18e006ba11fa471335ed7b2d2776401da58b0";
-remote ipv4 "20.gw.freifunknord.de" port 10050;
-remote ipv6 "20.gw.freifunknord.de" port 10050;

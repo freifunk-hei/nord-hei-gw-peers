@@ -1,3 +1,2 @@
-key "8f5017ef742e0b6c4d8babbc5497e786990d23eb4b1fc51e790b06d08c46df54";
+key "adabf4bf977e8e6d83d1b0380e802e2951de3eb823f198d9f2cddd0202a16ef3";
 remote ipv4 "2.gw.freifunknord.de" port 10050;
-remote ipv6 "2.gw.freifunknord.de" port 10050;
